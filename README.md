@@ -23,6 +23,5 @@ Tra i test sviluppati per sforzare il componente in situazioni particolari, i pi
 Infine per poter garantire una maggiore robustezza sono stati utilizzati anche numerosi test randomici in modo tale da cercare di coprire tutti i possibili cammini di esecuzione della macchina a stati.  
 
 ## Sviluppatori
-[Tommaso Pozzi](https://github.com/ToMmAzO)
-
-[Marco Riva](https://github.com/marcoriva)
+- __[Tommaso Pozzi](https://github.com/ToMmAzO)__
+- __[Marco Riva](https://github.com/marcoriva)__
