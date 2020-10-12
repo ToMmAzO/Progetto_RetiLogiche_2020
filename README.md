@@ -24,4 +24,5 @@ Infine per poter garantire una maggiore robustezza sono stati utilizzati anche n
 
 ## Sviluppatori
 [Tommaso Pozzi](https://github.com/ToMmAzO)
+
 [Marco Riva](https://github.com/marcoriva)
